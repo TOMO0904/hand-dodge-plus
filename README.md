@@ -1,4 +1,4 @@
-[English](README.md) | [日本語](README.ja.md)
+**English** | [日本語](README.ja.md)
 
 # HAND DODGE+ — Webcam Hand-Control Game
 
@@ -45,4 +45,4 @@ If the camera is not found, try `--camera 1`. Developed and tested on Windows wi
 
 ## Notes
 
-The Japanese README has full details (controls, scoring table, troubleshooting): [README.ja.md](README.ja.md). The bundled hand-landmark model is Google's MediaPipe model and is subject to its own license.
+Full details in Japanese (controls, scoring table, troubleshooting): [docs/DETAILS.ja.md](docs/DETAILS.ja.md). The bundled hand-landmark model is Google's MediaPipe model and is subject to its own license.
